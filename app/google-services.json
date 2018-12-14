@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "585665790123",
+    "firebase_url": "https://loginapp-50c98.firebaseio.com",
+    "project_id": "loginapp-50c98",
+    "storage_bucket": "loginapp-50c98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585665790123:android:6e9954c4fbd06feb",
+        "android_client_info": {
+          "package_name": "danelia.maya.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585665790123-0pqbbgbcg0vpjn7j5mgiir6fm2ikibml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAauGd7WVQnLS_24FRBTdBP4JR0_LJf8Zo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
